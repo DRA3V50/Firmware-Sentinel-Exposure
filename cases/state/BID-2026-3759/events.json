@@ -170,7 +170,20 @@
       "zone": "Containment Network",
       "intensity": 70,
       "idempotency_key": "revision-13-WORKFLOW_STAGE_CHANGED"
+    },
+    {
+      "event_id": "BID-2026-3759-EVT-0014",
+      "case_id": "BID-2026-3759",
+      "sequence": 14,
+      "timestamp": "2026-09-05T22:03:48Z",
+      "event_type": "ASSESSMENT_COMPLETED",
+      "message": "Assessment completion was explicitly recorded.",
+      "severity": "HIGH",
+      "source": "case_lifecycle",
+      "zone": "Containment Network",
+      "intensity": 70,
+      "idempotency_key": "assessment-completed"
     }
   ],
-  "updated_at": "2026-09-05T15:13:17Z"
+  "updated_at": "2026-09-05T22:03:48Z"
 }
