@@ -113,7 +113,15 @@
       "source_event_id": "BID-2026-3759-EVT-0014",
       "event_type": "ASSESSMENT_COMPLETED",
       "source": "derived_case_event"
+    },
+    {
+      "case_id": "BID-2026-3759",
+      "timestamp": "2026-09-06T08:40:01Z",
+      "value": 82,
+      "source_event_id": "BID-2026-3759-EVT-0015",
+      "event_type": "WORKFLOW_STAGE_CHANGED",
+      "source": "derived_case_event"
     }
   ],
-  "updated_at": "2026-09-05T22:03:48Z"
+  "updated_at": "2026-09-06T08:40:01Z"
 }
