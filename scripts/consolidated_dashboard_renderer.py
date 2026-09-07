@@ -1635,7 +1635,7 @@ def case_overview_value_entries(renderer_state: dict[str, Any]) -> list[TextEntr
         # Footer copy is live-state presentation, positioned on the frozen
         # y=255 baseline while preserving the y=249 divider and outer frame.
         TextEntry((91, 251, 154, 266), (93, 255), "CURRENT STATE", (119, 101, 98), 7, False, 61),
-        TextEntry((397, 251, 438, 266), (397, 255), str(shared["lifecycle_status"]), (201, 63, 49), 7, True, 41),
+        TextEntry((397, 251, 438, 266), (397, 255), str(shared["lifecycle_status"]), (201, 63, 49), 6, True, 41),
     ]
 
 
