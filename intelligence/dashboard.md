@@ -9,7 +9,7 @@
 | Classification | Medical Device Security Assessment |
 | Threat Family | Medical Device Communications Interference |
 | Severity | HIGH |
-| Status | Evidence Collection |
+| Status | ESCALATED |
 | Phase | Operational Recovery |
 
 ---

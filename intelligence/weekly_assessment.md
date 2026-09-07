@@ -10,7 +10,7 @@ Classification: Medical Device Security Assessment
 
 Threat Family: Medical Device Communications Interference
 
-Current Status: Evidence Collection
+Current Status: ESCALATED
 
 Containment Phase: Operational Recovery
 
@@ -18,7 +18,7 @@ Containment Phase: Operational Recovery
 
 ## Executive Assessment
 
-Observed indicators remain consistent with the current operational assessment.
+Current findings support maintaining the existing investigation priority.
 
 Observed activity presents a credible risk to data integrity, case evidence, or protected research operations.
 

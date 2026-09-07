@@ -13,7 +13,7 @@ Medical Device Security Assessment
 Observed activity presents a credible risk to data integrity, case evidence, or protected research operations.
 
 ### Current Status
-Evidence Collection
+ESCALATED
 
 ### Severity
 HIGH

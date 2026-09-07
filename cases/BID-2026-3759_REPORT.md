@@ -39,7 +39,7 @@ Current Phase:
 Operational Recovery
 
 Status:
-Evidence Collection
+ESCALATED
 
 ---
 
@@ -138,23 +138,23 @@ HIGH
 
 ### Finding 1
 
-Analysts recovered digital artifacts consistent with unauthorized research intelligence collection.
+Indicators remain consistent with a coordinated cyber-enabled bioterror intelligence operation.
 
 ### Finding 2
 
-Digital evidence suggests attempted collection of sensitive genomic research datasets.
+Laboratory network telemetry remains under continuous monitoring pending case closure.
 
 ### Finding 3
 
-Suspicious outbound communication was detected prior to containment operations.
+Digital evidence suggests attempted collection of sensitive genomic research datasets.
 
 ### Finding 4
 
-Collected indicators continue to support an active counter-bioterrorism investigation.
+Additional forensic examination is required to determine the full operational scope.
 
 ### Finding 5
 
-Privilege escalation activity was observed within a protected research environment.
+Evidence preservation procedures successfully secured affected systems for forensic reconstruction.
 
 ---
 
@@ -186,7 +186,7 @@ Observed activity presents a credible risk to data integrity, case evidence, or 
 # Operational Status
 
 Current Status:
-Evidence Collection
+ESCALATED
 
 Recommended Action:
 
@@ -213,7 +213,7 @@ Classification: Medical Device Security Assessment
 
 Threat Family: Medical Device Communications Interference
 
-Current Status: Evidence Collection
+Current Status: ESCALATED
 
 Containment Phase: Operational Recovery
 
@@ -221,7 +221,7 @@ Containment Phase: Operational Recovery
 
 ## Executive Assessment
 
-Observed indicators remain consistent with the current operational assessment.
+Current findings support maintaining the existing investigation priority.
 
 Observed activity presents a credible risk to data integrity, case evidence, or protected research operations.
 
@@ -287,12 +287,12 @@ Medical Device Security Assessment
 
 | Category | Observation |
 |----------|-------------|
-| Identity | Credential reuse detected across isolated research segments |
-| Endpoint Activity | Unsigned executable observed within laboratory environment |
-| Device | Protected workstation entered evidence preservation mode |
-| Cloud | Restricted research archive synchronized to unauthorized destination |
-| System Log | Unexpected privilege escalation recorded |
+| Network Artifact | Suspicious outbound TLS session to untrusted infrastructure |
+| Database | Protected biomedical dataset queried outside normal operating hours |
 | Infrastructure | Firewall policy deviation identified |
+| Network | Unexpected east-west traffic between laboratory VLANs |
+| Evidence | Acquired forensic image verified using SHA-256 |
+| Cloud | Restricted research archive synchronized to unauthorized destination |
 
 
 ---
@@ -319,7 +319,7 @@ Joint Cyber Investigation Unit
 
 Current Status:
 
-Evidence Collection
+ESCALATED
 
 
 ---
@@ -337,7 +337,7 @@ Evidence Collection
 | Classification | Medical Device Security Assessment |
 | Threat Family | Medical Device Communications Interference |
 | Severity | HIGH |
-| Status | Evidence Collection |
+| Status | ESCALATED |
 
 ---
 
@@ -413,7 +413,7 @@ Current Phase:
 
 Current Status:
 
-**Evidence Collection**
+**ESCALATED**
 
 Priority:
 
@@ -449,7 +449,7 @@ Medical Device Communications Interference
 ## Protected Asset
 
 Facility:
-National Pathogen Research Facility
+Raccoon Research Annex
 
 Platform:
 Federal Investigation Network
@@ -461,7 +461,7 @@ Vendor:
 HPE
 
 Operating System:
-VMware ESXi 9
+Ubuntu Server 24.04 LTS
 
 Security Zone:
 Containment Network
@@ -474,7 +474,7 @@ Current Phase:
 Operational Recovery
 
 Status:
-Awaiting Laboratory Review
+Isolated From Production
 
 Priority:
 HIGH
@@ -496,7 +496,7 @@ Verify recovery controls and prepare the final operational assessment.
 
 ## Reconstruction Notes
 
-Evidence indicates unauthorized access to restricted research resources.
+Digital evidence preserved for laboratory forensic examination.
 
 
 ---
@@ -518,7 +518,7 @@ Medical Device Security Assessment
 Observed activity presents a credible risk to data integrity, case evidence, or protected research operations.
 
 ### Current Status
-Evidence Collection
+ESCALATED
 
 ### Severity
 HIGH

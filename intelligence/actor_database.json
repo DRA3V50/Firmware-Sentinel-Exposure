@@ -131,8 +131,8 @@
         {
             "name": "Medical Device Communications Interference",
             "first_seen": "2026-08-03",
-            "last_seen": "2026-09-06",
-            "cases": 19,
+            "last_seen": "2026-09-07",
+            "cases": 20,
             "severity": "HIGH",
             "confidence": 98
         },

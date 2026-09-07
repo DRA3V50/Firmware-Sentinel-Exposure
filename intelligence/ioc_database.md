@@ -15,12 +15,12 @@ Medical Device Security Assessment
 
 | Category | Observation |
 |----------|-------------|
-| Identity | Credential reuse detected across isolated research segments |
-| Endpoint Activity | Unsigned executable observed within laboratory environment |
-| Device | Protected workstation entered evidence preservation mode |
-| Cloud | Restricted research archive synchronized to unauthorized destination |
-| System Log | Unexpected privilege escalation recorded |
+| Network Artifact | Suspicious outbound TLS session to untrusted infrastructure |
+| Database | Protected biomedical dataset queried outside normal operating hours |
 | Infrastructure | Firewall policy deviation identified |
+| Network | Unexpected east-west traffic between laboratory VLANs |
+| Evidence | Acquired forensic image verified using SHA-256 |
+| Cloud | Restricted research archive synchronized to unauthorized destination |
 
 
 ---
@@ -47,4 +47,4 @@ Joint Cyber Investigation Unit
 
 Current Status:
 
-Evidence Collection
+ESCALATED

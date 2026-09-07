@@ -58,4 +58,4 @@ Medical Device Security Assessment
 ---
 
 ## Last Updated
-2026-09-06
+2026-09-07
